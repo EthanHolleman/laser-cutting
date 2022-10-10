@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="114.06152mm"
+   height="62.190849mm"
+   viewBox="0 0 114.06152 62.190849"
+   version="1.1"
+   id="svg4058"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="BadTags.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4060"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.34673454"
+     inkscape:cx="126.89823"
+     inkscape:cy="272.54279"
+     inkscape:window-width="1070"
+     inkscape:window-height="689"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs4055">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18955">
+      <path
+         id="path18957"
+         style="fill:none;stroke:#000000;stroke-width:1.00009"
+         d="m 18.896237,66.747496 47.643274,57.527144 c 6.591642,7.95911 5.386891,19.79822 -2.70124,26.54508 l -18.243357,15.21802 c -8.088131,6.74685 -19.906148,5.77092 -26.49779,-2.1882 L -28.54615,106.3224 c -6.591643,-7.959116 -5.386889,-19.798222 2.701243,-26.545079 L -7.6015501,64.559302 C 0.48658107,57.812444 12.304594,58.788379 18.896237,66.747496 Z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18961">
+      <path
+         id="path18963"
+         style="fill:none;stroke:#000000;stroke-width:1.00009"
+         d="m 18.896238,66.747495 47.643274,57.527145 c 6.591641,7.95911 5.38689,19.79822 -2.701241,26.54508 l -18.243357,15.21802 c -8.088131,6.74685 -19.906148,5.77092 -26.49779,-2.1882 L -28.54615,106.3224 c -6.591643,-7.959116 -5.386889,-19.798222 2.701242,-26.54508 L -7.6015501,64.559302 C 0.48658107,57.812444 12.304594,58.788379 18.896238,66.747495 Z" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-42.228306,-101.59927)">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect9125"
+       width="113.06151"
+       height="61.190845"
+       x="45.129299"
+       y="27.753429"
+       ry="18.830349" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.81;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path9491"
+       cx="62.241993"
+       cy="58.348854"
+       r="8.8245993" />
+    <g
+       id="g19479"
+       transform="translate(-0.31017469)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.70137px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.264583"
+         x="81.626724"
+         y="49.955978"
+         id="text5925"><tspan
+           sodipodi:role="line"
+           id="tspan5923"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.70137px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="81.626724"
+           y="49.955978">Team</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.1667px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.264583"
+         x="111.56444"
+         y="54.214134"
+         id="text17649"><tspan
+           sodipodi:role="line"
+           id="tspan17647"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.1667px;font-family:Hack;-inkscape-font-specification:'Hack, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="111.56444"
+           y="54.214134">BAD</tspan></text>
+    </g>
+    <path
+       id="rect17651"
+       style="fill:none;stroke:#000000"
+       d="m 63.959648,27.753429 h 75.400812 c 10.43201,0 18.83035,8.398336 18.83035,18.830349 v 23.530148 c 0,10.432013 -8.39834,18.830349 -18.83035,18.830349 H 63.959648 c -10.432013,0 -18.830349,-8.398336 -18.830349,-18.830349 V 46.583778 c 0,-10.432013 8.398336,-18.830349 18.830349,-18.830349 z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.70137px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.264583"
+       x="77.347389"
+       y="70.288338"
+       id="text17657"><tspan
+         sodipodi:role="line"
+         id="tspan17655"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.70137px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="77.347389"
+         y="70.288338">SuperStressed</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.847446;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect18829"
+       width="7.1001859"
+       height="96.724968"
+       x="-28.990046"
+       y="43.689121"
+       ry="0"
+       transform="matrix(0.64662451,-0.76280846,0.77517331,0.63174863,0,0)"
+       clip-path="url(#clipPath18961)" />
+    <path
+       id="rect18929"
+       style="stroke:#000000;stroke-width:0.847446"
+       transform="matrix(0.64662451,-0.76280846,0.77517331,0.63174863,0,0)"
+       d="m -15.304107,47.396019 h 7.1001862 v 96.724971 h -7.1001862 z"
+       clip-path="url(#clipPath18955)" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.81;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle17653"
+       cx="62.241993"
+       cy="58.348854"
+       r="8.8245993" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect19561"
+       width="113.06151"
+       height="61.190845"
+       x="42.728306"
+       y="102.09927"
+       ry="18.830349" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.81;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle19563"
+       cx="59.841"
+       cy="132.6947"
+       r="8.8245993" />
+    <g
+       id="g19573"
+       transform="translate(-5.1435622,74.345843)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.70137px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.264583"
+         x="81.626724"
+         y="49.955978"
+         id="text19567"><tspan
+           sodipodi:role="line"
+           id="tspan19565"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.70137px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="81.626724"
+           y="49.955978">Team</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.1667px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.264583"
+         x="111.56444"
+         y="54.214134"
+         id="text19571"><tspan
+           sodipodi:role="line"
+           id="tspan19569"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.1667px;font-family:Hack;-inkscape-font-specification:'Hack, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="111.56444"
+           y="54.214134">BAD</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.70137px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.264583"
+       x="78.748001"
+       y="144.63419"
+       id="text19579"><tspan
+         sodipodi:role="line"
+         id="tspan19577"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.70137px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="78.748001"
+         y="144.63419">Hollebread</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.847446;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect19581"
+       width="7.1001859"
+       height="96.724968"
+       x="-28.990046"
+       y="43.689121"
+       ry="0"
+       transform="matrix(0.64662451,-0.76280846,0.77517331,0.63174863,-2.4009934,74.345843)"
+       clip-path="url(#clipPath18961)" />
+    <g
+       id="g24653">
+      <path
+         id="path19575"
+         style="fill:none;stroke:#000000"
+         d="m 61.558655,102.09927 h 75.400815 c 10.43201,0 18.83035,8.39834 18.83035,18.83035 v 23.53015 c 0,10.43201 -8.39834,18.83035 -18.83035,18.83035 H 61.558655 c -10.432013,0 -18.830349,-8.39834 -18.830349,-18.83035 v -23.53015 c 0,-10.43201 8.398336,-18.83035 18.830349,-18.83035 z" />
+      <path
+         id="path19583"
+         style="stroke:#000000;stroke-width:0.847446"
+         transform="matrix(0.64662451,-0.76280846,0.77517331,0.63174863,-2.4009934,74.345843)"
+         d="m -15.304107,47.396019 h 7.1001862 v 96.724971 h -7.1001862 z"
+         clip-path="url(#clipPath18955)" />
+      <circle
+         style="fill:none;stroke:#ff0000;stroke-width:0.81;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle19585"
+         cx="59.841"
+         cy="132.6947"
+         r="8.8245993" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect21933"
+       width="113.06151"
+       height="61.190845"
+       x="42.366146"
+       y="177.09193"
+       ry="18.830349" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.81;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle21935"
+       cx="59.47884"
+       cy="207.68736"
+       r="8.8245993" />
+    <g
+       id="g21945"
+       transform="translate(-8.3185624,149.33851)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.70137px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.264583"
+         x="81.626724"
+         y="49.955978"
+         id="text21939"><tspan
+           sodipodi:role="line"
+           id="tspan21937"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.70137px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="81.626724"
+           y="49.955978">Team</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.1667px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.264583"
+         x="111.56444"
+         y="54.214134"
+         id="text21943"><tspan
+           sodipodi:role="line"
+           id="tspan21941"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.1667px;font-family:Hack;-inkscape-font-specification:'Hack, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="111.56444"
+           y="54.214134">BAD</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.70137px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.264583"
+       x="87.451019"
+       y="220.3631"
+       id="text21951"><tspan
+         sodipodi:role="line"
+         id="tspan21949"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.70137px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="87.451019"
+         y="220.3631">Sus DJ</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.847446;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect21953"
+       width="7.1001859"
+       height="96.724968"
+       x="-28.990046"
+       y="43.689121"
+       ry="0"
+       transform="matrix(0.64662451,-0.76280846,0.77517331,0.63174863,-2.7631544,149.33851)"
+       clip-path="url(#clipPath18961)" />
+    <g
+       id="g24648">
+      <path
+         id="path21947"
+         style="fill:none;stroke:#000000"
+         d="m 61.196494,177.09194 h 75.400816 c 10.43201,0 18.83035,8.39834 18.83035,18.83035 v 23.53015 c 0,10.43201 -8.39834,18.83035 -18.83035,18.83035 H 61.196494 c -10.432013,0 -18.830349,-8.39834 -18.830349,-18.83035 v -23.53015 c 0,-10.43201 8.398336,-18.83035 18.830349,-18.83035 z" />
+      <path
+         id="path21955"
+         style="stroke:#000000;stroke-width:0.847446"
+         transform="matrix(0.64662451,-0.76280846,0.77517331,0.63174863,-2.7631544,149.33851)"
+         d="m -15.304107,47.396019 h 7.1001862 v 96.724971 h -7.1001862 z"
+         clip-path="url(#clipPath18955)" />
+      <circle
+         style="fill:none;stroke:#ff0000;stroke-width:0.81;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle21957"
+         cx="59.47884"
+         cy="207.68736"
+         r="8.8245993" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect22505"
+       width="113.06151"
+       height="61.190845"
+       x="40.67308"
+       y="258.061"
+       ry="18.830349" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.81;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle22507"
+       cx="57.785774"
+       cy="288.65643"
+       r="8.8245993" />
+    <g
+       id="g22517"
+       transform="translate(-8.3185624,230.30758)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.70137px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.264583"
+         x="81.626724"
+         y="49.955978"
+         id="text22511"><tspan
+           sodipodi:role="line"
+           id="tspan22509"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.70137px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="81.626724"
+           y="49.955978">Team</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.1667px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.264583"
+         x="111.56444"
+         y="54.214134"
+         id="text22515"><tspan
+           sodipodi:role="line"
+           id="tspan22513"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.1667px;font-family:Hack;-inkscape-font-specification:'Hack, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="111.56444"
+           y="54.214134">BAD</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.70137px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.264583"
+       x="75.712738"
+       y="299.93417"
+       id="text22523"><tspan
+         sodipodi:role="line"
+         id="tspan22521"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.70137px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="75.712738"
+         y="299.93417">digitalBen</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.847446;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect22525"
+       width="7.1001859"
+       height="96.724968"
+       x="-28.990046"
+       y="43.689121"
+       ry="0"
+       transform="matrix(0.64662451,-0.76280846,0.77517331,0.63174863,-4.4562199,230.30758)"
+       clip-path="url(#clipPath18961)" />
+    <g
+       id="g24659">
+      <g
+         id="g24643">
+        <path
+           id="path22519"
+           style="fill:none;stroke:#000000"
+           d="m 59.503429,258.06101 h 75.400811 c 10.43201,0 18.83035,8.39834 18.83035,18.83035 v 23.53015 c 0,10.43201 -8.39834,18.83035 -18.83035,18.83035 H 59.503429 c -10.432013,0 -18.830349,-8.39834 -18.830349,-18.83035 v -23.53015 c 0,-10.43201 8.398336,-18.83035 18.830349,-18.83035 z" />
+        <path
+           id="path22527"
+           style="stroke:#000000;stroke-width:0.847446"
+           transform="matrix(0.64662451,-0.76280846,0.77517331,0.63174863,-4.4562199,230.30758)"
+           d="m -15.304107,47.396019 h 7.1001862 v 96.724971 h -7.1001862 z"
+           clip-path="url(#clipPath18955)" />
+      </g>
+      <circle
+         style="fill:none;stroke:#ff0000;stroke-width:0.81;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle22529"
+         cx="57.785774"
+         cy="288.65643"
+         r="8.8245993" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect22951"
+       width="113.06151"
+       height="61.190845"
+       x="37.659542"
+       y="334.62451"
+       ry="18.830349" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.81;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle22953"
+       cx="54.772236"
+       cy="365.21994"
+       r="8.8245993" />
+    <g
+       id="g22963"
+       transform="translate(-8.3185624,306.8711)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.70137px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.264583"
+         x="81.626724"
+         y="49.955978"
+         id="text22957"><tspan
+           sodipodi:role="line"
+           id="tspan22955"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.70137px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="81.626724"
+           y="49.955978">Team</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.1667px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.264583"
+         x="111.56444"
+         y="54.214134"
+         id="text22961"><tspan
+           sodipodi:role="line"
+           id="tspan22959"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.1667px;font-family:Hack;-inkscape-font-specification:'Hack, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="111.56444"
+           y="54.214134">BAD</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.70137px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.264583"
+       x="78.597572"
+       y="376.49768"
+       id="text22969"><tspan
+         sodipodi:role="line"
+         id="tspan22967"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.70137px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="78.597572"
+         y="376.49768">wickerjay</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.847446;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect22971"
+       width="7.1001859"
+       height="96.724968"
+       x="-28.990046"
+       y="43.689121"
+       ry="0"
+       transform="matrix(0.64662451,-0.76280846,0.77517331,0.63174863,-7.4697572,306.8711)"
+       clip-path="url(#clipPath18961)" />
+    <g
+       id="g24664">
+      <path
+         id="path22965"
+         style="fill:none;stroke:#000000"
+         d="M 56.489892,334.62453 H 131.8907 c 10.43201,0 18.83035,8.39834 18.83035,18.83035 v 23.53015 c 0,10.43201 -8.39834,18.83035 -18.83035,18.83035 H 56.489892 c -10.432013,0 -18.830349,-8.39834 -18.830349,-18.83035 v -23.53015 c 0,-10.43201 8.398336,-18.83035 18.830349,-18.83035 z" />
+      <path
+         id="path22973"
+         style="stroke:#000000;stroke-width:0.847446"
+         transform="matrix(0.64662451,-0.76280846,0.77517331,0.63174863,-7.4697572,306.8711)"
+         d="m -15.304107,47.396019 h 7.1001862 v 96.724971 h -7.1001862 z"
+         clip-path="url(#clipPath18955)" />
+      <circle
+         style="fill:none;stroke:#ff0000;stroke-width:0.81;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle22975"
+         cx="54.772236"
+         cy="365.21994"
+         r="8.8245993" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect23943"
+       width="113.06151"
+       height="61.190845"
+       x="35.26004"
+       y="414.9259"
+       ry="18.830349" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.81;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle23945"
+       cx="52.372734"
+       cy="445.52133"
+       r="8.8245993" />
+    <g
+       id="g24678">
+      <g
+         id="g23955"
+         transform="translate(-8.3185624,387.17248)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.70137px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.264583"
+           x="81.626724"
+           y="49.955978"
+           id="text23949"><tspan
+             sodipodi:role="line"
+             id="tspan23947"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.70137px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+             x="81.626724"
+             y="49.955978">Team</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.1667px;line-height:1.25;font-family:Hack;-inkscape-font-specification:'Hack, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.264583"
+           x="111.56444"
+           y="54.214134"
+           id="text23953"><tspan
+             sodipodi:role="line"
+             id="tspan23951"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.1667px;font-family:Hack;-inkscape-font-specification:'Hack, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+             x="111.56444"
+             y="54.214134">BAD</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.70137px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.264583"
+         x="66.544281"
+         y="456.07178"
+         id="text23961"><tspan
+           sodipodi:role="line"
+           id="tspan23959"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.70137px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="66.544281"
+           y="456.07178">Fusion Master</tspan></text>
+    </g>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.847446;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect23963"
+       width="7.1001859"
+       height="96.724968"
+       x="-28.990046"
+       y="43.689121"
+       ry="0"
+       transform="matrix(0.64662451,-0.76280846,0.77517331,0.63174863,-9.8692602,387.17248)"
+       clip-path="url(#clipPath18961)" />
+    <g
+       id="g24669">
+      <path
+         id="path23957"
+         style="fill:none;stroke:#000000"
+         d="M 54.090389,414.92591 H 129.4912 c 10.43201,0 18.83035,8.39834 18.83035,18.83035 v 23.53015 c 0,10.43201 -8.39834,18.83035 -18.83035,18.83035 H 54.090389 c -10.432013,0 -18.830349,-8.39834 -18.830349,-18.83035 v -23.53015 c 0,-10.43201 8.398336,-18.83035 18.830349,-18.83035 z" />
+      <path
+         id="path23965"
+         style="stroke:#000000;stroke-width:0.847446"
+         transform="matrix(0.64662451,-0.76280846,0.77517331,0.63174863,-9.8692602,387.17248)"
+         d="m -15.304107,47.396019 h 7.1001862 v 96.724971 h -7.1001862 z"
+         clip-path="url(#clipPath18955)" />
+      <circle
+         style="fill:none;stroke:#ff0000;stroke-width:0.81;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle23967"
+         cx="52.372734"
+         cy="445.52133"
+         r="8.8245993" />
+    </g>
+  </g>
+</svg>
